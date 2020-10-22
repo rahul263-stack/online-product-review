@@ -1,8 +1,4 @@
-'''
-# Author: Sunny Bhaveen Chandra
-# Contact: sunny.c17hawke@gmail.com
-# dated: March, 04, 2020
-'''
+
 # import necessary libraries
 from bs4 import BeautifulSoup as soup
 import urllib
