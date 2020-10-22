@@ -4,6 +4,6 @@ The data that was gathered is available to download as well.
 
 This could be a way to showcase a buyer that what in general other consumers are feeling about that product.
 
-**For live demo you can check here-**  https://online-product-review.herokuapp.com/
+**For live demo you can check here-**  https://product-review-online.herokuapp.com/
 
 
